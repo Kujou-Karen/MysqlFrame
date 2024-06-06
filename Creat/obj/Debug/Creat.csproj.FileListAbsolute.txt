@@ -1,0 +1,10 @@
+D:\CODE\Mysql_Remake\Creat\bin\Debug\Creat.dll
+D:\CODE\Mysql_Remake\Creat\bin\Debug\Creat.pdb
+D:\CODE\Mysql_Remake\Creat\obj\Debug\Creat.csproj.CoreCompileInputs.cache
+D:\CODE\Mysql_Remake\Creat\obj\Debug\Creat.dll
+D:\CODE\Mysql_Remake\Creat\obj\Debug\Creat.pdb
+D:\CODE\Mysql_Remake\Creat\bin\Debug\Model.dll
+D:\CODE\Mysql_Remake\Creat\bin\Debug\Model.pdb
+D:\CODE\Mysql_Remake\Creat\bin\Debug\Model.dll.config
+D:\CODE\Mysql_Remake\Creat\obj\Debug\Creat.csproj.AssemblyReference.cache
+D:\CODE\Mysql_Remake\Creat\obj\Debug\Creat.csproj.CopyComplete
